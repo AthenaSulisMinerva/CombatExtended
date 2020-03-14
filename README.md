@@ -1,3 +1,7 @@
+**NOTICE: As of February 2020, CE:FT is undergoing a merger with the original Combat Extended mod. CE:FT will not be updated to RimWorld 1.1.**
+
+**Once CE has fully integrated all FastTrack content, this repository will be retained for archival purposes only.**
+
 # Combat Extended: FastTrack Edition
 Combat Extended: FastTrack Edition is a fork of the [original Combat Extended mod](https://github.com/NoImageAvailable/CombatExtended/), with integrated support for more third-party mods and a more frequent update cycle.
 
